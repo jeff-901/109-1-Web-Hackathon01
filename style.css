@@ -76,7 +76,7 @@ body > h1{
     text-align: top;
     vertical-align: top;
     background-color: #000000;
-    color:'#FFFFFF';
+    color:var(--text);
 }
 
 
